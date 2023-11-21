@@ -4,6 +4,8 @@ import java.util.Scanner;
 public class Duplicate {
 
     public static void main(String[] args) {
+
+
         System.out.println("Input size of your array: ");
         Scanner scanner = new Scanner(System.in);
         int size = scanner.nextInt();
